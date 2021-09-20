@@ -6,7 +6,7 @@ Group Project for Recommender Systems Class
 
 steam_merge: Final dataset used for the Project
 
-SVDpp_analysis: Contains the Python Code and results for SVDpp algorithm, Accuracy measures, Cluster analysis
+SVDpp_analysis: Contains code to optimizing and evaluating SVDpp algorithm using Accuracy measures and cluster analysis.
 
 Data_Exploration_Wrangling: Contains the code for data exploration 
 
